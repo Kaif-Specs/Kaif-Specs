@@ -4,17 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,25:004e92,50:6a11cb,75:2575fc,100:00c6ff&text=Hind%20Sinha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20🚀%20Startup%20Founder%20💻&descAlignY=55&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,25:004e92,50:6a11cb,75:2575fc,100:00c6ff&text=Mohd%20Kaif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20🚀%20AI%20Enthusiast%20💻&descAlignY=55&descSize=22"/>
 
 </div>
 
-<!-- ===================================================== -->
-<!--                    ANIMATED TYPING                    -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=🚀+Full+Stack+Developer;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;💻+Building+Scalable+Real-World+Products;🛍️+Founder+of+Jewelora;🔥+Passionate+About+AI+%2B+Web3+%2B+Startups;🎯+Clean+Architecture+%26+Production+Ready+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=🚀+MERN+Stack+Developer;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;💻+Building+Scalable+Full-Stack+Applications;🤖+AI+%2B+Machine+Learning+Enthusiast;🔥+Passionate+About+Modern+Web+Technologies"/>
 
 </div>
 
@@ -32,16 +28,14 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Passionate Full Stack Developer from India  
-💻 Building scalable production-ready applications  
-🛍 Founder of **Jewelora** — Jewelry E-Commerce Startup  
-🔐 Creator of **ChatBharat** — Encrypted Messaging Platform  
-🎓 Developer of **ABES OneView** — Academic ERP System  
-🏢 Built Internship Training Management Platform  
-💹 Redesigned modern finance platform (**Funds24**)  
-📄 Research Paper Author in Digital Academic Management  
-⚡ Exploring AI + Web3 + Scalable Architectures  
-🔥 I believe in building products — not just projects  
+🚀 MERN Stack Developer from India  
+💻 Building scalable full-stack web applications  
+⚡ Skilled in React.js, Node.js, Express.js, MongoDB & PostgreSQL  
+🤖 Passionate about AI, Machine Learning & Modern Web Technologies  
+🔐 Developed encrypted real-time messaging applications  
+📚 Built academic management and AI-powered career systems  
+🔥 Strong believer in clean code & performance optimization  
+🎯 Focused on building real-world production-ready applications  
 
 ---
 
@@ -49,20 +43,16 @@
 
 <div align="center">
 
-<a href="https://instagram.com/hind.sinha">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/hindsinha">
+<a href="https://linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:hindsinha222@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Kaif-Specs">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://hindportfolio.smartstudyhub.co.in/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="mailto:kaifkhan6012@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -73,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,firebase,js,java,python,cpp,c,mysql,tailwind,bootstrap,materialui,git,github,vscode,postman,netlify,vercel,render&perline=11" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,firebase,js,java,python,html,css,bootstrap,git,github,vscode,netlify,render&perline=9" />
 
 </div>
 
@@ -93,43 +83,43 @@
 <tr>
 <td width="50%">
 
-# 🛍 Jewelora
+# 🤖 AI Career Intelligence System
 
-### 🔗 https://jewelora.in
+### 🔗 https://github.com/Kaif-Specs/Ai-Career-Development
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-✨ Full Stack Jewelry E-Commerce Startup
+✨ AI-Powered Career Guidance Platform
 
 ### 🚀 Features
-- Authentication System
-- Shopping Cart
-- Secure Checkout
-- Admin Dashboard
-- Product Management
-- Razorpay Integration
+- AI Resume Analysis
+- ATS Score Prediction
+- Placement Prediction
+- Skill Gap Detection
+- Personalized Roadmaps
+- NLP & ML Integration
 
 ### ⚙ Tech
-`React` `Firebase` `Node.js`
+`React` `FastAPI` `Firebase` `Python`
 
 </td>
 
 <td width="50%">
 
-# 💬 ChatBharat
+# 💬 ChatIndia
 
 ### 🔗 https://chatbharat.netlify.app
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
 
-🔐 Real-Time Encrypted Messaging Platform
+🔐 Encrypted Real-Time Messaging Platform
 
 ### 🚀 Features
 - Real-time Messaging
 - RSA Encryption
-- Online Presence
-- Firebase Sync
+- Live User Tracking
 - Responsive UI
+- Firebase Sync
 
 ### ⚙ Tech
 `React` `Firebase` `Encryption APIs`
@@ -142,40 +132,38 @@
 
 # 🎓 ABES OneView
 
-### 🔗 https://abesoneviewmain.netlify.app
+### 🔗 https://abesoneview.netlify.app
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
 
-📚 Academic ERP & Performance Management System
+📚 Academic Management System
 
 ### 🚀 Features
-- Student / Faculty / Admin Login
-- Assignment Tracking
-- Sessional Marks
-- Academic Analytics
+- Assignment Uploads
+- Result Tracking
 - Role-Based Access
+- Firebase Authentication
+- Firestore Database
 
 ### ⚙ Tech
-`React` `Firebase` `Chart.js`
+`React` `Firebase` `Firestore`
 
 </td>
 
 <td width="50%">
 
-# 🏢 Intern Training Management Portal
+# 🗳 E-Voting System
 
-### 🔗 https://startappss.smartstudyhub.co.in/
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-
-💼 Enterprise Internship & Training Platform
+🔒 Secure Online Voting Platform
 
 ### 🚀 Features
-- Student Management
-- Admin Dashboard
-- Authentication
-- Faculty Monitoring
-- Training Workflow
+- Authentication System
+- Live Vote Counting
+- Secure Voting Process
+- Responsive Interface
+- Accessible UI
 
 ### ⚙ Tech
 `React` `Node.js` `MongoDB`
@@ -186,47 +174,24 @@
 <tr>
 <td width="50%">
 
-# 💹 Funds24 Redesign
-
-### 🔗 https://funds24.smartstudyhub.co.in/
+# 🛍 Jewelora.in
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
 
-🎨 Modern Financial Platform UI/UX Redesign
+💎 Full Stack E-Commerce Platform
 
 ### 🚀 Features
-- Modern Responsive Design
-- Smooth Animations
-- Optimized UI
-- Enhanced UX
-- Landing Page Redesign
+- Shopping Cart
+- Secure Checkout
+- Authentication
+- Admin Dashboard
+- Database Integration
 
 ### ⚙ Tech
-`React` `TailwindCSS`
+`React` `Node.js` `MongoDB`
 
 </td>
 
-<td width="50%">
-
-# 🌐 Developer Portfolio
-
-### 🔗 https://hindportfolio.smartstudyhub.co.in/
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-
-🔥 Personal Portfolio & Developer Showcase
-
-### 🚀 Features
-- Animated UI
-- Responsive Design
-- Project Showcase
-- Modern Layout
-- Contact Integration
-
-### ⚙ Tech
-`React` `Framer Motion`
-
-</td>
 </tr>
 </table>
 
@@ -242,25 +207,29 @@
 <tr>
 <td width="50%">
 
-## 💻 StartAppss Pvt. Ltd.
-### Web Developer Intern
+## 💻 E-Value Web Pvt India Limited
+### MERN Stack Developer Intern
 
-✔ Building scalable full-stack apps  
-✔ REST API Development  
-✔ Production Architecture  
-✔ Backend Optimization  
+📅 March 2025 – Aug 2025
+
+✔ Developed scalable full-stack applications  
+✔ Designed REST APIs & authentication systems  
+✔ Optimized backend performance  
+✔ Collaborated in agile development teams  
 
 </td>
 
 <td width="50%">
 
-## 👨‍💻 Yukti Software
-### Associate Web Developer Intern
+## 🚀 Jewelora.in
+### Full Stack Developer
 
-✔ Enterprise UI Development  
-✔ Responsive Components  
-✔ Frontend Optimization  
-✔ UX Improvements  
+📅 Jan 2026 – Present
+
+✔ Built and managed e-commerce platform  
+✔ Implemented cart & checkout system  
+✔ Managed deployment & databases  
+✔ Improved application performance  
 
 </td>
 </tr>
@@ -270,13 +239,22 @@
 
 ---
 
+# 🎓 Education
+
+- 🎓 MCA — ABES Engineering College  
+- 🎓 BCA — Integral University, Lucknow  
+- 📘 Class XII — City Montessori Inter College (77.4%)  
+- 📘 Class X — St. Don Bosco College (66%)  
+
+---
+
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HINDSINHA2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaif-Specs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HINDSINHA2005&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif-Specs&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -284,7 +262,7 @@
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HINDSINHA2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Specs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -294,7 +272,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HINDSINHA2005&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kaif-Specs&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
 
 </div>
 
@@ -304,28 +282,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HINDSINHA2005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif-Specs&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HINDSINHA2005/HINDSINHA2005/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/HINDSINHA2005/HINDSINHA2005/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 # 👀 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HINDSINHA2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Kaif-Specs&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -334,25 +301,14 @@
 # ⚡ Fun Fact
 
 ```javascript
-const hind = {
+const kaif = {
     pronouns: "He/Him",
-    code: ["JavaScript", "React", "Node.js", "MongoDB"],
+    code: ["JavaScript", "React", "Node.js", "Python"],
     technologies: {
-        frontend: ["React", "TailwindCSS", "Bootstrap"],
-        backend: ["Node.js", "Express"],
+        frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
+        backend: ["Node.js", "Express.js"],
         database: ["MongoDB", "PostgreSQL", "Firebase"]
     },
-    currentFocus: "Building scalable startup products 🚀",
-    funFact: "I build products, not just projects 🔥"
+    currentFocus: "AI + Scalable Full Stack Applications 🚀",
+    funFact: "I build real-world production-ready applications 🔥"
 };
-```
-
----
-
-<div align="center">
-
-# ⭐ “Turning Ideas Into Scalable Digital Products”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000428,25:004e92,50:6a11cb,75:2575fc,100:00c6ff"/>
-
-</div>
